@@ -10,9 +10,9 @@ app.use(bodyParser.json());
 
 // MySQL Connection
 const db = mysql.createConnection({
-    host: 'localhost',       // or IP of MySQL server
-    user: 'your_mysql_user',
-    password: 'your_mysql_password',
+    host: 'LAPTOP-9SCINE3P ',       // or IP of MySQL server
+    user: 'saransoul',
+    password: 'saransoul4',
     database: 'userdb'
 });
 
